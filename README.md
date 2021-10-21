@@ -1,6 +1,5 @@
 # go-record
 
----
 ## 事先準備
 - 下載專案
 - 安裝 Portaudio
@@ -20,7 +19,7 @@ brew install portaudio
 ```
 go get github.com/gordonklaus/portaudio
 ```
----
+
 ## 執行專案
 - Run 
 - Stop
